@@ -16,7 +16,7 @@
   "author": "Monika Rafalska <m.rafalska99@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MonikaRafalska/goit-js-hw-09/issues"
+    "url": "https://github.com/MonikaRafalska/goit-js-hw-10/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
@@ -24,5 +24,9 @@
     "parcel-plugin-nuke-dist": "^1.0.1",
     "posthtml-include": "^1.6.2",
     "sass": "^1.32.8"
+  },
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "notiflix": "^3.2.2"
   }
 }
